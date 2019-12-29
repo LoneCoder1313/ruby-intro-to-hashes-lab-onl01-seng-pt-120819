@@ -42,8 +42,8 @@ def monopoly_with_fourth_tier
        :three_pieces_owned => 100,
        :four_pieces_owned => 200 
      }
-     }
      },
+     {
      :names =>
     {
       :reading_railroad =>
@@ -63,4 +63,5 @@ def monopoly_with_fourth_tier
         "mortgage_value" => "$800"
       }
     }
+     }
 end
