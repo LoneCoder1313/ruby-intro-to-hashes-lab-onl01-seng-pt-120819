@@ -32,7 +32,6 @@ end
 
 def monopoly_with_fourth_tier
      [:railroads][:names]= {}
-     monopoly ={
      :names =>
     {
       :reading_railroad =>
@@ -52,5 +51,4 @@ def monopoly_with_fourth_tier
         "mortgage_value" => "$800"
       }
     }
-     }
 end
